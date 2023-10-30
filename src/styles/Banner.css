@@ -1,0 +1,29 @@
+.inx-header {
+    background-color: white;
+	color: white;
+	text-align: right;
+	/* padding: 16px; */
+	/* border-bottom: solid 3px #39375B;*/
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: row;
+	align-items: center;
+	height: 80px;
+}
+
+.inx-eco-title {
+	color: black;
+	padding-left: 12px;
+}
+
+.inx-logo {
+	padding-left: 12px;
+	width: 30em;
+}
+
+
+@media (max-width: 480px) {
+	.inx-eco-logo {
+	width: 18em;
+	}
+}
