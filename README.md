@@ -1,6 +1,6 @@
 # PROJECT NAME
 
-INX Economy - Primal Fear edition
+INX Market - Primal Fear edition
 
 ## SMALL DESCRIPTION
 
